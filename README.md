@@ -4,94 +4,148 @@
 
 ### `CSE Student • Full-Stack Developer • Backend & AI/ML Explorer`
 
-Building real-world products with **code, data, AI & automation.**
+**Building real-world products with code, data, AI & automation.**
 
 <br>
 
-<a href="https://github.com/Madhan07-01">
-<img src="https://img.shields.io/github/followers/Madhan07-01?style=for-the-badge&logo=github&label=Followers" />
-</a>
-<a href="https://github.com/Madhan07-01?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-10+-blue?style=for-the-badge&logo=github" />
-</a>
-<a href="https://madhan-portfolio-dusky.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Madhan07--01-181717?style=for-the-badge&logo=github)](https://github.com/Madhan07-01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://madhan-portfolio-dusky.vercel.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Madhan07-01&style=for-the-badge&color=blueviolet)](https://github.com/Madhan07-01)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 🧑‍💻 About Me
 
 - 🎓 Computer Science Engineering Student
-- 💻 Building **full-stack & backend systems**
-- 🤖 Exploring **AI/ML & intelligent automation**
-- 🗄️ Interested in **databases, system design & scalable applications**
+- 💻 Full-Stack & Backend Developer
+- 🤖 Exploring AI/ML & intelligent automation
+- 🗄️ Interested in Databases & System Design
 - 🚀 Building products across **FinTech, ERP, Education & Productivity**
-- 🏆 Active in **hackathons & technical projects**
+- 🏆 Hackathon enthusiast & problem solver
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,sql" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&perline=6" />
+  </a>
 </p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&perline=5" />
+  </a>
 </p>
 
 ### Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,supabase,firebase,mongodb" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,supabase,firebase,mongodb&perline=7" />
+  </a>
 </p>
 
 ### AI / ML & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,git,github,postman,vscode,vercel" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,git,github,postman,vscode,vercel&perline=8" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 💰 **SpareSmart** | Programmable finance & micro-investment platform |
-| 🏭 **Madeena Traders ERP** | Billing, inventory & warehouse management system |
-| 🎓 **EduPrerna** | Gamified AI-powered education platform |
-| 📱 **FlowPilot** | AI-powered productivity & workflow intelligence |
-| 🛡️ **SafetyStreets** | Smart personal safety ecosystem |
-| 🧠 **CogniVault** | Offline multimodal RAG system |
-| 🛒 **Bazaar Connect** | Vendor & raw-material supplier platform |
+### 💰 SpareSmart
+**Programmable Finance & Micro-Investment Platform**
+
+Automating spare-change investing through configurable investment rules, buckets and financial intelligence.
+
+`React` `Node.js` `PostgreSQL` `Supabase`
+
+---
+
+### 🏭 Madeena Traders ERP
+**Billing • Inventory • Warehouse Management**
+
+A production-oriented ERP for billing, GST invoices, inventory, lot tracking, QR-based product identification and reporting.
+
+`React` `Node.js` `Supabase`
+
+---
+
+### 🎓 EduPrerna
+**Gamified Smart Education Platform**
+
+A digital learning platform focused on rural education, STEM learning, multilingual content and AI-powered interaction.
+
+`React` `Firebase` `Supabase` `Node.js` `YOLO`
+
+---
+
+### 📱 FlowPilot
+**AI-Powered Productivity & Workflow Intelligence**
+
+Transforms fragmented tasks and information into structured workflows and actionable execution.
+
+`React` `AI` `Automation`
+
+---
+
+### 🛡️ SafetyStreets
+**Smart Personal Safety Ecosystem**
+
+Combines smart wearables, safe navigation and voice-activated emergency assistance.
+
+`React` `AI/ML` `IoT`
+
+---
+
+### 🧠 CogniVault
+**Offline Multimodal RAG System**
+
+Exploring private, offline knowledge retrieval using multimodal Retrieval-Augmented Generation.
+
+`Python` `RAG` `AI/ML`
 
 ---
 
 ## 🏆 Achievements
 
-<img src="https://img.shields.io/badge/🥉_Mathematics_Modelling-3rd_Prize-orange?style=for-the-badge" />
+<p align="center">
 
-<img src="https://img.shields.io/badge/🥉_Hackatrix-2nd_Runner--Up-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🥉_MATHEMATICS_MODELLING-3RD_PRIZE-F97316?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Walmart_USA-Software_Engineering_Simulation-black?style=for-the-badge" />
+<br><br>
+
+<img src="https://img.shields.io/badge/🥉_HACKATRIX-2ND_RUNNER--UP-0EA5E9?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/WALMART_USA-SOFTWARE_ENGINEERING_SIMULATION-111111?style=for-the-badge&logo=walmart" />
+
+</p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Madhan07-01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+![GitHub Followers](https://img.shields.io/github/followers/Madhan07-01?style=for-the-badge&logo=github&label=Followers)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan07-01&layout=compact&theme=tokyonight&hide_border=true" />
+![GitHub Stars](https://img.shields.io/github/stars/Madhan07-01?style=for-the-badge&logo=github&label=Stars)
+
+![Commits](https://img.shields.io/github/commit-activity/y/Madhan07-01/Madhan07-01?style=for-the-badge&logo=github&label=Profile%20Commits)
 
 </p>
 
@@ -99,15 +153,18 @@ Building real-world products with **code, data, AI & automation.**
 
 ## 🔥 Current Focus
 
-```text
-DSA
- ↓
-Backend Engineering
- ↓
-System Design
- ↓
-Database Architecture
- ↓
-AI / ML Integration
- ↓
-Production-Ready Systems
+<p align="center">
+
+`DSA` → `Backend Engineering` → `System Design` → `Database Architecture` → `AI/ML` → `Production Systems`
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 From writing code → to engineering systems.
+
+**Build • Learn • Break • Improve • Repeat 🚀**
+
+</div>
